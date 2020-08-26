@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: black;
+  color: rgb(20, 248, 20);
+}
+
+a {
+  color: #00B7FF;
+  display: inline;
+}
+
+ul {
+  list-style: none;
+  display: block;
+}
+form{
+  display: inline;
+}
+
+button {
+  color:  rgb(20, 248, 20;
+}
+
+
